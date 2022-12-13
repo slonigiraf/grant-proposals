@@ -30,12 +30,9 @@ Our system will also include the user interface for such a database.
 
 ## Value
 
-<!-- Please describe in more detail why this proposal is valuable for the Filecoin ecosystem. Answer the following questions: -->
-<!-- - What are the benefits to getting this right? -->
-<!-- - What are the risks if you don't get it right? -->
-<!-- - What are the risks that will make executing on this project difficult? -->
+The use of Filecoin in the GIRAF system could potentially lead to increased demand for Filecoin storage and raise awareness of the platform. The GIRAF project could help showcase the potential uses of Filecoin and the benefits of decentralized systems. By providing a successful example of a decentralized system in action, the GIRAF project could help raise awareness of Filecoin and potentially attract more users and developers to the platform.
 
-<!-- This section should be 1-3 paragraphs long. -->
+As a new project, we are faced with the challenge of creating a user experience that is simple and intuitive for people who may not be familiar with our system. We are working hard to design a user interface that is easy to understand and use, even for those with no prior knowledge or experience with decentralized systems or blockchain technology.
 
 ## Deliverables
 
