@@ -51,7 +51,7 @@ Together, these components will provide a comprehensive solution for creating, s
 
 *Deliverables:*
 
-- A Typescript library for storing laws on IPFS/Filecoin
+- A Typescript library for storing laws on IPFS/Filecoin.
 - API for registering them on a blockchain
 
 *People Involved:*
@@ -115,16 +115,16 @@ Breakdown of the budget:
 
 ## Maintenance and Upgrade Plans
 
-<!-- Specify your team's long-term plans to maintain this software and upgrade it over time. -->
+Maintenance for 1 year guaranteed, including critical bug fixes on demand. We are always open to community suggestions to improve the project.
 
 # Team
 
 ## Team Members
 
-- Denis Reshetov
-- Ilya Moskvin
-- Aleksey Pastutsan
-- Natalie Andreeva
+- Denis Reshetov - Founder, Rust/JavaScript developer
+- Ilya Moskvin - JavaScript developer
+- Aleksey Pastutsan - Rust/JavaScript developer
+- Natalie Andreeva - Project manager
 
 
 ## Team Member LinkedIn Profiles
@@ -141,13 +141,24 @@ Breakdown of the budget:
 
 ## Relevant Experience
 
-<!-- Please describe (in words) your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc. -->
+Denis Reshetov is the team leader of the project. He is a fullstack developer, scientist and bioinformatician with a huge devotion to building tools for decentralized socity. Recently he successfullty completed a grant [awarded by a Web3 foundation](https://github.com/w3f/Grants-Program/blob/master/applications/slonigiraf.md).
+
+Ilya Moskvin is a JavaScript developer with reach knowledge in builing complex ERP systems. 2 years ago he switched from the development of software for buisinesses to web3-stack and developed applications in Ethereum space.
+
+Aleksey Pastutsan has decades of years in software engineering experience. Now his main focus is web3 projects based on Typescript/Rust stack.
+
+Natalie Andreeva has many years of experience in financial management in fintech as well as organization of peoples woriking on a specific project.
 
 ## Team code repositories
 
-<!-- Please provide links to your team's prior code repos for similar or related projects. -->
+- [Main repository](https://github.com/slonigiraf/)
+- [Typescript library to sign recommendation letters and store them on IPFS](https://github.com/slonigiraf/helpers)
+- [Rust module for recommendation letter issuing](https://github.com/slonigiraf/recommendation-letter)
+- [React example UI for recommendation letter issuing](https://github.com/slonigiraf/recommendation-letter-example-ui)
+- [Full functional UI for recommendation letter issuing](https://github.com/slonigiraf/slonigiraf-front-end)
+- [Blockchain for recommendation letter issuing](https://github.com/slonigiraf/recommendation-letter-example-node)
 
 # Additional Information
-<!-- How did you learn about the Open Grants Program? -->
-<!-- Please provide the best email address for discussing the grant agreement and general next steps. -->
-<!-- Please include any additional information that you think would be useful in helping us to evaluate your proposal. -->
+**How did you learn about the Open Grants Program?** `From searching for grants in web3 field`
+
+**Email address for discussing the grant agreement and general next steps:** `reshetovdenis@gmail.com`
