@@ -36,7 +36,14 @@ As a new project, we are faced with the challenge of creating a user experience 
 
 ## Deliverables
 
-<!-- Please describe in details what your final deliverable for this project will be. Include a specification of the project and what functionality the software will deliver when it is finished. -->
+The GIRAF project will include the following components:
+
+- React components for creating, representing, and canceling laws
+- A Typescript library for storing laws on IPFS/Filecoin, along with an API for registering them on a blockchain
+- An example website that demonstrates the use of the technology for creating, representing, and canceling laws
+- A paper that describes how to use the technology from the perspectives of both developers and users
+
+Together, these components will provide a comprehensive solution for creating, storing, and managing laws using decentralized technology.
 
 ## Development Roadmap
 
