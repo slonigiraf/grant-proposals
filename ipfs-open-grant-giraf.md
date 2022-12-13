@@ -38,8 +38,8 @@ As a new project, we are faced with the challenge of creating a user experience 
 
 The GIRAF project will include the following components:
 
-- React components for creating, representing, and canceling laws
 - A Typescript library for storing laws on IPFS/Filecoin, along with an API for registering them on a blockchain
+- React components for creating, representing, and canceling laws
 - An example website that demonstrates the use of the technology for creating, representing, and canceling laws
 - A paper that describes how to use the technology from the perspectives of both developers and users
 
@@ -47,17 +47,71 @@ Together, these components will provide a comprehensive solution for creating, s
 
 ## Development Roadmap
 
-<!-- Please break up your development work into a clear set of milestones. This section needs to be very detailed (will vary on the project, but aim for around 2 pages for this section). -->
+### Milestone 1: Working backend and APIs
 
-<!-- For each milestone, please describe: -->
-<!-- - The software functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables. -->
-<!-- - How many people will be working on each milestone and their roles -->
-<!-- - The amount of funding required for each milestone -->
-<!-- - How much time this milestone will take to achieve (using real dates) -->
+*Deliverables:*
+
+- A Typescript library for storing laws on IPFS/Filecoin
+- API for registering them on a blockchain
+
+*People Involved:*
+
+- 2 software engineers
+- 1 project manager
+
+*Expected Hours:* 127
+
+*Expected Days:* 14
+
+*Expected Budget:* $7,500 USD
+
+### Milestone 2: Frontend modules
+
+*Deliverables:*
+
+- React component for creating law
+- React component for representing law
+- React component for canceling law
+
+*People Involved:*
+
+- 2 software engineers
+- 1 project manager
+
+*Expected Hours:* 170
+
+*Expected Days:* 21
+
+*Expected Budget:* $10,000 USD
+
+### Milestone 3: Example usage and documentation creation
+
+*Deliverables:*
+
+- An example website that demonstrates the use of the technology for creating, representing, and canceling laws
+- A paper that describes how to use the technology from the perspectives of both developers and users
+
+*People Involved:*
+
+- 3 software engineers
+- 1 project manager
+
+*Expected Hours:* 212
+
+*Expected Days:* 28
+
+*Expected Budget:* $12,500 USD
 
 ## Total Budget Requested
 
-<!--Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds. -->
+Total: $30,000 for the development of the GIRAF - IPFS based legislation system for communities.
+
+This sum will support three current software developers and 1 project manager. Also we plan to spend a small part on infrastructure: a server lease.
+
+Breakdown of the budget:
+
+- Salary: 95%.
+- Operations: 5%.
 
 ## Maintenance and Upgrade Plans
 
