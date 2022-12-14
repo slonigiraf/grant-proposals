@@ -1,6 +1,6 @@
-# Open Grant Proposal: `GIRAF - IPFS based legislation system for communities`
+# Open Grant Proposal: `GIRAF - IPFS based legislation system`
 
-**Name of Project:** `GIRAF - IPFS based legislation system for communities`
+**Name of Project:** `GIRAF - IPFS based legislation system`
 
 **Proposal Category:** `app-dev`
 
@@ -32,7 +32,9 @@ Our system will also include the user interface for such a database.
 
 The use of Filecoin in the GIRAF system could potentially lead to increased demand for Filecoin storage and raise awareness of the platform. The GIRAF project could help showcase the potential uses of Filecoin and the benefits of decentralized systems. By providing a successful example of a decentralized system in action, the GIRAF project could help raise awareness of Filecoin and potentially attract more users and developers to the platform.
 
-As a new project, we are faced with the challenge of creating a user experience that is simple and intuitive for people who may not be familiar with our system. We are working hard to design a user interface that is easy to understand and use, even for those with no prior knowledge or experience with decentralized systems or blockchain technology.
+The GIRAF project code will be extensively used in our main project, [Slonigiraf](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which is a tool designed for the creation of digital recommendation letters and diplomas. The essence of the lawmaking process is the coordination of various companies and educational organizations in determining the skills that need to be assessed and the appropriate methods of assessment for those skills.
+
+We are faced with the challenge of creating a user experience that is simple and intuitive for people who may not be familiar with our system. We are working hard to design a user interface that is easy to understand and use, even for those with no prior knowledge or experience with decentralized systems or blockchain technology.
 
 ## Deliverables
 
@@ -140,14 +142,13 @@ Maintenance for 1 year guaranteed, including critical bug fixes on demand. We ar
 - [Company site](https://slonigiraf.org/)
 
 ## Relevant Experience
+Denis Reshetov is a highly skilled and dedicated full-stack developer and [scientist](https://pubmed.ncbi.nlm.nih.gov/?term=reshetov+d). He has a passion for building tools for decentralized society, and his leadership skills have proven invaluable in guiding teams to successfully complete complex projects. For example, he recently received a grant from the Web3 Foundation for a project [that he successfully completed](https://github.com/w3f/Grants-Program/blob/master/applications/slonigiraf.md). In addition to his technical expertise, Denis is known for his ability to motivate and inspire his team members. He has a clear vision for the projects he works on, and he is able to effectively communicate that vision to his team in a way that encourages [collaboration and fosters a sense of shared purpose](https://pubmed.ncbi.nlm.nih.gov/35039573/).
 
-Denis Reshetov is the team leader of the project. He is a fullstack developer, scientist and bioinformatician with a huge devotion to building tools for decentralized socity. Recently he successfullty completed a grant [awarded by a Web3 foundation](https://github.com/w3f/Grants-Program/blob/master/applications/slonigiraf.md).
+Ilya Moskvin is a highly skilled JavaScript developer with a wealth of experience in building complex ERP systems. He has a [deep understanding of the web3 stack](https://github.com/iamoskvin/), and he has been instrumental in developing applications in the Ethereum space over the last two years. He is a strong communicator and is always willing to help his colleagues whenever they need it. His positive attitude and his commitment to excellence make him a pleasure to work with and a valuable contributor to the project.
 
-Ilya Moskvin is a JavaScript developer with reach knowledge in builing complex ERP systems. 2 years ago he switched from the development of software for buisinesses to web3-stack and developed applications in Ethereum space.
+Aleksey Pastutsan has [decades of experience](https://github.com/almipa) in software engineering, and his current focus is on web3 projects based on the Typescript/Rust stack. He is a highly skilled developer with a wealth of knowledge and expertise in the field. Aleksey's expertise in web3 technology and his ability to create robust, scalable solutions make him an invaluable member of the  project. His dedication to advancing the field of decentralized technology and his passion for building tools that can improve the lives of people around the world make him a valuable asset to our team.
 
-Aleksey Pastutsan has decades of years in software engineering experience. Now his main focus is web3 projects based on Typescript/Rust stack.
-
-Natalie Andreeva has many years of experience in financial management in fintech as well as organization of peoples woriking on a specific project.
+Natalie Andreeva is a highly experienced financial manager with a background in fintech. She has a proven [track record](https://www.linkedin.com/in/natalie-andreeva-4a250b56/) of successfully organizing and coordinating teams working on specific projects, and she is skilled at allocating resources and managing people in order to achieve project objectives. Natalie's expertise in financial management and her ability to effectively coordinate teams make her an invaluable member of the project.
 
 ## Team code repositories
 
