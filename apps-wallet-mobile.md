@@ -10,7 +10,7 @@
 
 [Polkadot apps wallet](https://polkadot.js.org/apps/#/explorer) is a well-known official interface to the whole Polkadot ecosystem. However, it's not usable on mobile phones - see Figure 1. As of November 2022, 60 percent of all web traffic came through mobile phones. Thus 60% of potential new users turn away from the ecosystem when they see such sites from a mobile phone. We are sure that the Polkadot app wallet's mobile version is essential for onboarding new users.
 
-<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-iphone-current.jpeg?raw=true" width="700">
+<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-iphone-current.png?raw=true" width="150">
 
 ### Project Details
 
