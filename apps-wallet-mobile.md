@@ -1,4 +1,4 @@
-# Mobile friendly Polkadot apps wallet
+# Smartphone Friendly Polkadot Apps Wallet
 
 - **Team Name:** Slonigiraf
 - **Payment Address:** bc1qyuk4rdeqvc2rmetfhr3key4clty5sglaw4n5wx (BTC)
