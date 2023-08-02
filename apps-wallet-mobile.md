@@ -8,7 +8,11 @@
 
 ### Overview
 
-[Polkadot apps wallet](https://polkadot.js.org/apps/#/explorer) is a well-known official interface to the whole Polkadot ecosystem. However, it's not usable on mobile phones - see Figure 1. As of November 2022, 60 percent of all web traffic came through mobile phones. Thus 60% of potential new users turn away from the ecosystem when they see such sites from a mobile phone. We are sure that the Polkadot app wallet's mobile version is essential for onboarding new users.
+Our project focuses on the development of mobile compatibility for the [Polkadot apps wallet](https://polkadot.js.org/apps/#/explorer), an official interface to the Polkadot ecosystem that is currently unoptimized for mobile use (see Figure 1). With the understanding that mobile traffic makes up a significant percentage of all web traffic, we see a need for a version of the wallet that can be easily accessed and navigated on mobile phones. This modification will enable us to tap into the potential new users who have been deterred by the wallet's current limitations.
+
+This project is an integral part of the Polkadot ecosystem. By creating a mobile-optimized version of the Polkadot apps wallet, we will increase the overall accessibility and usability of the ecosystem. Our mobile-friendly interface will provide a seamless user experience, opening up the entire ecosystem to a broader user base and facilitating greater integration and interaction with the Substrate framework and Kusama network.
+
+Our team is deeply invested in the development of a parachain designed specifically for use on mobile devices. With the increasing prevalence of mobile web use, we recognize the urgent need for a mobile web version of the Polkadot apps wallet. This development is crucial for our parachain's success as it will provide users with seamless, efficient, and user-friendly access to our offerings. Through this project, we aim to align the Polkadot ecosystem's accessibility with current mobile usage trends, ensuring the wide adoption and practical usability of our mobile-centric parachain. Our team's passion and expertise in mobile blockchain applications make us committed to seeing this project come to fruition, ushering in a new era of convenience and accessibility for Polkadot, Substrate, and Kusama users.
 
 **Figure 1**
 
@@ -18,23 +22,11 @@
 
 ### Project Details
 
-In this project, we plan to work on both the backend and frontend components. The backend will be responsible for storing and managing the data associated with each law, while the frontend will provide a user-friendly interface for interacting with the system.
+**Figure 1**
 
-The backend of our system will consist of a database to store entries for each law. Each entry will include the following information:
+*Polkadot Apps Wallet Is Not Optimized for Using on Mobile Phones*
 
-- A unique identifier for the law, such as a serial number or ID.
-- A hash of the text of the law, which will be generated using a system such as IPFS (InterPlanetary File System) to ensure the integrity and immutability of the law's content.
-- The amount of money that was used for lobbying when the law was created.
-
-In terms of implementation, we plan to develop the backend database as a Substrate pallet rather than an ink! smart contract. This is because not all Substrate-based projects are able to run smart contracts, and using a pallet instead will allow our technology to be more widely adopted within the ecosystem. Additionally, our team has more experience with writing Substrate pallets, which will ensure the quality and security of the code.
-
-To provide users with a convenient way to interact with the system, we also plan to develop a user interface (UI) for the database. This UI will be built using React components, and will allow users to create, view, and cancel laws as needed. It will provide a simple and intuitive interface for managing the laws in the database.
-
-<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/giraf-grant-ui.jpeg?raw=true" width="700">
-
-Overall, our plan is to develop a robust and user-friendly system for storing and managing laws, leveraging the power of smart contracts and the Substrate framework to ensure security, transparency, and accessibility.
-
-Our team has successfully built a [PoC/MVP product](https://slon-i-giraf.ru/app/work?view=jobcentreView&language=ENG) on the Java Vaadin framework. The MVP is focused on helping teachers collaborate and share resources more effectively. It provides a central repository for documents and other materials that are used by multiple teachers, and allows them to easily make changes and updates to these materials. This eliminates the need for teachers to constantly send updated versions of documents back and forth, and ensures that everyone has access to the most up-to-date information.
+<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-iphone-current.png?raw=true" width="150">
 
 ### Ecosystem Fit
 
