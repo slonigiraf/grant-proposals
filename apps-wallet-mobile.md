@@ -22,11 +22,29 @@ Our team is deeply invested in the development of a parachain designed specifica
 
 ### Project Details
 
-**Figure 1**
+We intend to optimize all pages found at https://polkadot.js.org/apps for better mobile compatibility. In order to enhance navigation on smartphones, we will implement a hamburger-style site menu. The display of this menu is illustrated in Figure 2.
 
-*Polkadot Apps Wallet Is Not Optimized for Using on Mobile Phones*
+The submenu specifically for tools will be retained in its original form, also as demonstrated in Figure 2. When users tap on the hamburger menu, they will be presented with a comprehensive menu displayed vertically, as depicted in Figure 3.
 
-<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-iphone-current.png?raw=true" width="150">
+Furthermore, the network selector will be repositioned to the left side of the smartphone screen for easier accessibility, as shown in Figure 4. This adjustment enhances the mobile user experience, making the navigation through the Polkadot ecosystem more seamless and intuitive.
+
+**Figure 2**
+
+*Mobile Friendly Main View*
+
+<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-main.png?raw=true" width="250">
+
+**Figure 3**
+
+*Mobile Friendly Menu*
+
+<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-menu.png?raw=true" width="250">
+
+**Figure 4**
+
+*Mobile Friendly Network Selector*
+
+<img alt="Image" src="https://github.com/slonigiraf/grant-proposals/blob/main/img/apps-wallet-networks.png?raw=true" width="250">
 
 ### Ecosystem Fit
 
