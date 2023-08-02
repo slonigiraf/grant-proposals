@@ -184,13 +184,20 @@ The project has not yet started.
 
 ## Future Plans
 
-- The GIRAF project code will play a crucial role in our main project, [Slonigiraf](https://slonigiraf.org/), which aims to coordinate various companies and educational organizations in identifying the skills that need to be assessed and determining the appropriate methods of assessment for those skills during teaching and examination.
-- In a short term we will integrate this code to [ui.slonigiraf.org](https://ui.slonigiraf.org/#/recommendations) and then are planning to work on a mobile friendly UI version of our polkadot.js wallet fork.
+In the short term, we plan to concentrate on the development and testing of the mobile optimization for the Polkadot apps wallet. Our primary goal is to ensure that the interface is user-friendly, intuitive, and fully functional.
+
+Once the development phase is complete, we will move on to a comprehensive testing phase. We will seek feedback from a diverse set of users to ensure that our mobile interface meets their needs effectively and efficiently.
+
+Promotion of our project is also a key short-term plan. We aim to leverage various channels including blockchain forums, social media platforms, and potentially hosting webinars and online workshops. We will focus on highlighting the benefits of our mobile-optimized Polkadot apps wallet, with the aim of expanding its user base.
+
+Our long-term plans focus on continuous improvement and expansion of our project. Based on user feedback and evolving market trends, we will strive to implement enhancements to the wallet's mobile interface.
+
+Ultimately, our team is committed to contributing to the Polkadot ecosystem's growth. We will continually monitor and adapt to changes in the industry, ensuring that our mobile-optimized Polkadot apps wallet remains a vital and relevant tool for users.
+
+It's necessary for us to maintain the mobile version as our own parachain project is designed for use on smartphones.
 
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Our team lead has previously successfully completed a work on a Web3 grant. 
 
-- [PoC/MVP product](https://slon-i-giraf.ru/app/work?view=jobcentreView&language=ENG)
-- [The white paper](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md)
 - Previous grants we've got: [Web3 grant](https://github.com/w3f/Grants-Program/blob/master/applications/slonigiraf.md), [IPFS grant](https://github.com/ipfs/devgrants/issues/156).
