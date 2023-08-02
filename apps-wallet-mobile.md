@@ -48,11 +48,17 @@ Furthermore, the network selector will be repositioned to the left side of the s
 
 ### Ecosystem Fit
 
-The Polkadot and Kusama networks use a [sophisticated governance mechanism](https://wiki.polkadot.network/docs/learn-governance) to roll out blockchain updates. This mechanism involves voting on referenda and council decisions, and a Technical Committee that has the power to fast-track proposals. Similar ideas [underlie](https://polkadot.network/blog/polkadao-is-live/) the decentralized autonomous organizations (DAOs) within these ecosystems.
+Our project primarily fits into the Polkadot ecosystem, where it serves to enhance the user experience by optimizing the Polkadot apps wallet for mobile use. This interface improvement will enhance the accessibility of the entire Polkadot ecosystem, as well as applications built on Substrate and projects within the Kusama network.
 
-Historically, bribery has been [viewed negatively](https://decrypt.co/7102/live-at-eth-ny-its-vitalik-buterin) within the blockchain community, so lobbying is not a common practice in blockchain-based dApps. We aim to fill this gap by creating a system that mimics how laws were traditionally created.
+Our target audience consists of mobile users of the Polkadot ecosystem, wallet/UI developers, designers, and the user base of our own mobile-optimized parachain. Additionally, we aim to reach potential users who may be deterred by the current lack of mobile compatibility in the Polkadot apps wallet.
 
-We believe that different parachains and DAOs could benefit from our project, as it would add new governance functionality to their voting processes. The code for our GIRAF project will also be used extensively in our main project, [Slonigiraf](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which is a tool for creating digital recommendation letters and diplomas. It will be used for the coordination of various companies and educational organizations in determining the skills to be assessed and the appropriate methods of assessment for those skills.
+Our project addresses the need for improved mobile access to the Polkadot apps wallet. With mobile internet usage increasing, there is a critical demand for seamless, user-friendly mobile interfaces within the blockchain ecosystem. By providing mobile compatibility for the Polkadot apps wallet, we will lower barriers for entry, increase user accessibility, and improve the overall user experience.
+
+To our knowledge, there are no other projects currently aimed at optimizing the Polkadot apps wallet for mobile use within the Substrate, Polkadot, or Kusama ecosystem.
+
+While there are several Polkadot wallet apps available for Android and iOS, these require users to install them first before use. This is a step that can potentially create friction for some users. Additionally, these mobile applications do not address the needs of users who wish to access the wallet through a web browser on their smartphones.
+
+Therefore, our project remains unique in its efforts to provide a mobile-optimized web version of the Polkadot apps wallet, improving its usability and accessibility without the need for any additional downloads or installations. This is crucial in ensuring a seamless experience for users who prefer or require web-based access, catering to their specific needs within the broader Polkadot, Substrate, and Kusama ecosystem.
 
 ## Team :busts_in_silhouette:
 
