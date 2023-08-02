@@ -77,7 +77,7 @@ Therefore, our project remains unique in its efforts to provide a mobile-optimiz
 
 ### Legal Structure
 
-- **Registered Address:** Ulmas Umarbekov, 20, Tashkent, Uzbekistan
+- **Registered Address:** Old town 436, 85330, Kotor, Montenegro
 - **Registered Legal Entity:** Individual entrepreneur Reshetov Denis
 
 ### Team's experience
@@ -120,9 +120,7 @@ GitHub accounts of all team members:
 
 ## Development Status :open_book:
 
-- We've built PoC/MVP product on Java Vaadin framework that can be used via
-  [link](https://slon-i-giraf.ru/app/work?view=jobcentreView&language=ENG)
-- The white paper and overall design is presented [here](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md)
+The project has not yet started.
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -141,15 +139,18 @@ GitHub accounts of all team members:
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | User Story 1 | Substrate functions to create a law by providing a text and an amount of tokens to be spent |
-| 2. | User Story 2 | Substrate functions to view a list of published laws |
-| 3. | User Story 3 | Substrate functions to see details of a selected law: it text, hash and current price |
-| 4. | User Story 4 | Substrate functions to tokens to make the law more expensive and solid |
-| 5. | User Story 5 | Substrate functions to spend tokens to make the law less expensive and less solid |
-| 6. | User Story 6 | Substrate functions to cancel the law by spending tokens |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that will show how the new functionality works. |
+| **0c.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 1. | Hamburger menu | The site menu will be concealed under a hamburger menu button. Once the user presses this button, the menu will be displayed in full screen. |
+| 2. | https://polkadot.js.org/apps/#/accounts | The accounts page will be optimized for use on smartphones. |
+| 3. | https://polkadot.js.org/apps/#/addresses | The addresses page will be optimized for use on smartphones. |
+| 4. | https://polkadot.js.org/apps/#/claims | The claims page will be optimized for use on smartphones. |
+| 5. | https://polkadot.js.org/apps/#/explorer | The explorer page will be optimized for use on smartphones. |
+| 6. | https://polkadot.js.org/apps/#/staking | The staking page will be optimized for use on smartphones. |
+| 7. | https://polkadot.js.org/apps/#/parachains | The parachains page will be optimized for use on smartphones. |
+| 8. | https://polkadot.js.org/apps/#/scheduler | The scheduler page will be optimized for use on smartphones. |
+| 9. | https://polkadot.js.org/apps/#/calendar | The calendar page will be optimized for use on smartphones. |
+
 
 ### Milestone 2 — Additional features
 
@@ -160,19 +161,26 @@ GitHub accounts of all team members:
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
-| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that will show how the new functionality works. |
+| **0c.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article** that explains what was done/achieved as part of the grant |
-| 1. | User Story 7 | I can bookmark laws using a new module\* for polkadot.js wallet |
-| 2. | User Story 8 | I can create a law by providing a text and an amount of tokens to be spent  using a new module for polkadot.js wallet |
-| 3. | User Story 9 | I can view a list of published laws  using a new module for polkadot.js wallet|
-| 4. | User Story 10 | I can see details of a selected law: it text, hash and current price  using a new module for polkadot.js wallet |
-| 5. | User Story 11 | I can spend my tokens to make the law more expensive and solid  using a new module for polkadot.js wallet |
-| 6. | User Story 12 | I can spend my tokens to make the law less expensive and less solid  using a new module for polkadot.js wallet |
-| 7. | User Story 13 | I can cancel the law by spending my tokens  using a new module for polkadot.js wallet |
-
-\* Conventional polkadot.js modules a directories placed [here](https://github.com/polkadot-js/apps/tree/master/packages). We plan to add a functionality by providing an additional page-giraf module. We did the same way recently with other our pallet: [page-recommendations](https://github.com/slonigiraf/slonigiraf-front-end/tree/master/packages/page-recommendations), [UI](https://ui.slonigiraf.org/#/recommendations).
+| 1. | https://polkadot.js.org/apps/#/referenda | The referenda page will be optimized for use on smartphones. |
+| 2. | https://polkadot.js.org/apps/#/preimages | The preimages page will be optimized for use on smartphones. |
+| 3. | https://polkadot.js.org/apps/#/whitelist | The whitelist page will be optimized for use on smartphones. |
+| 4. | https://polkadot.js.org/apps/#/democracy | The democracy page will be optimized for use on smartphones. |
+| 5. | https://polkadot.js.org/apps/#/council | The council page will be optimized for use on smartphones. |
+| 6. | https://polkadot.js.org/apps/#/techcomm | The techcomm page will be optimized for use on smartphones. |
+| 7. | https://polkadot.js.org/apps/#/treasury | The treasury page will be optimized for use on smartphones. |
+| 8. | https://polkadot.js.org/apps/#/bounties | The bounties page will be optimized for use on smartphones. |
+| 9. | https://polkadot.js.org/apps/#/chainstate | The chainstate page will be optimized for use on smartphones. |
+| 10. | https://polkadot.js.org/apps/#/extrinsics | The extrinsics page will be optimized for use on smartphones. |
+| 11. | https://polkadot.js.org/apps/#/rpc | The rpc page will be optimized for use on smartphones. |
+| 12. | https://polkadot.js.org/apps/#/runtime | The runtime page will be optimized for use on smartphones. |
+| 13. | https://polkadot.js.org/apps/#/signing | The signing page will be optimized for use on smartphones. |
+| 14. | https://polkadot.js.org/apps/#/files | The files page will be optimized for use on smartphones. |
+| 15. | https://polkadot.js.org/apps/#/js | The js page will be optimized for use on smartphones. |
+| 16. | https://polkadot.js.org/apps/#/utilities | The utilities page will be optimized for use on smartphones. |
+| 17. | https://polkadot.js.org/apps/#/settings | The settings page will be optimized for use on smartphones. |
 
 ## Future Plans
 
